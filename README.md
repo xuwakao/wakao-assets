@@ -1,0 +1,2 @@
+# wakao-assets
+assets
